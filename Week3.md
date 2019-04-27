@@ -15,7 +15,7 @@
 - Big data 大数据
 - Machine Learning 机器学习
 
-相关链接：
+**相关链接：**
 - [KnowingAI知智-人工智能知识科普](https://zhuanlan.zhihu.com/knowingai)
 - [图费・克奇： 机器智能时代，坚守人类道德更重要](https://www.ted.com/talks/zeynep_tufekci_machine_intelligence_makes_human_morals_more_important?&language=zh-CN)
 - [苏珊•埃特林格: 如何应对大数据？](https://www.ted.com/talks/susan_etlinger_what_do_we_do_with_all_this_big_data?&language=zh-CN)
