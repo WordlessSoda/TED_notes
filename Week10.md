@@ -11,15 +11,19 @@
 ### 情绪驱动行为，学会控制情绪
 
 > 托尼·罗宾相信情绪是生命的力量，情绪的参与让人在许多事情上受益，创造了人的下一步行动。
+
 > 苏珊·大卫认为情绪是数据不是指令，它包含着许多价值需要我们深挖，而不是听从于它，控制情绪不是忽略它，因为那会让它控制你，而应该是直面它，无论正负情绪本身都有价值。
 
 &emsp;&emsp;情绪是驱动我们的下一步行为的力量，情绪有正负两面，积极正面的情绪驱动着我们在学习、工作、生活等方面努力向前的行为，对事物的喜爱激动情绪，驱动着我们每一步追求的行为，而消极负面的情绪也在驱动着我们的行为，对事物的厌恶情绪，驱动着我们远离的行为，或是对事物的恐惧情绪，反而催生出勇气，驱动着我们对其发起挑战的行为等。因此学会控制情绪尤为重要，无论情绪是否正负，我们都应直接面对，大肆宣扬正面情绪，忽略负面情绪是不可取的，负面情绪的积累会造成压力的积累，当达到临界值时，负面情绪的爆发瞬间就会让人精神崩溃。不断削减负面情绪，尝试转化为正面情绪，并以此作为我们行为的推动力，学会合理控制情绪，做情绪的主人。
 
 ### 让情感融入人工智能
 
+> 拉斐尔·阿拉尔把艺术看作是帮助人们填补人类与机器之间情感空白的途径，在他看来艺术就是把有形的经历，转化为无形的想法、感受、情感的一种方式，而将艺术带入人工智能研究就是一种让其理解人类情感，变得更加人性化的方法。
+
+&emsp;&emsp;
 
 **相关链接：**
 - [丽莎·费德曼·巴瑞特：你并非受情绪所摆布──是你的大脑创造了你的情绪](https://www.ted.com/talks/lisa_feldman_barrett_you_aren_t_at_the_mercy_of_your_emotions_your_brain_creates_them/transcript?&language=zh-tw)
 - [托尼·罗宾：谈论我们行为背后的 “为什么”](https://www.ted.com/talks/tony_robbins_asks_why_we_do_what_we_do/transcript?&language=zh-cn)
 - [苏珊·大卫：情感勇气的天赋和力量](https://www.ted.com/talks/susan_david_the_gift_and_power_of_emotional_courage?&languange=zh-cn)
-- [拉斐尔 · 阿拉尔：我们怎样才能教会电脑理解我们的情感？](https://www.ted.com/talks/raphael_arar_how_we_can_teach_computers_to_make_sense_of_our_emotions/transcript?&language=zh-CN)
+- [拉斐尔·阿拉尔：我们怎样才能教会电脑理解我们的情感？](https://www.ted.com/talks/raphael_arar_how_we_can_teach_computers_to_make_sense_of_our_emotions/transcript?&language=zh-CN)
