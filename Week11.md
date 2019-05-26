@@ -24,6 +24,12 @@
 
 ![Plutchlt](https://www.biaodianfu.com/wp-content/uploads/2013/05/plutchlt.jpg)
 
+> 唐诺德·诺曼认为设计使人快乐的要在3个层面上下功夫，其分别是**本能层面**，**行为层面**和**反思层面**。
+
+![What_ED](http://image.woshipm.com/wp-files/2014/09/a68ea5d406560009f001cd1e4a5de25b.jpg!v.jpg)
+
+&emsp;&emsp;让设计融入情感，即情感化设计。视觉是人类的本能，一件产品的外形、颜色等视觉设计元素能直接给人以情感反馈，如柔和的线条、蓝色的色彩能给人一种冷静、安宁的情感。在研究人类行为的基础上，在设计中预见未来可能的行为，在解决产品的功能性、易用性问题的同时融入情感，以人为本，从而让用户有效使用，且乐于使用，这是我所理解的情感化设计在行为层面的作用。最后在反思层面，通过融入情感让产品与人产生情感共鸣，联系或是其他情感影响，才能让人们真正了解产品，理解背后的设计与努力。而以上情感化设计的目的不仅在于获取更多的商业价值，还要更进一步增加人们的积极情绪，获取幸福。
+
 **相关链接：**
 - [马丁·赛利格曼：谈论积极心理学](https://www.ted.com/talks/martin_seligman_on_the_state_of_psychology/transcript?&language=zh-cn)
 - [南希·伊特考夫：奇妙的幸福科学](https://www.ted.com/talks/nancy_etcoff_on_happiness_and_why_we_want_it/transcript?&language=zh-cn)
