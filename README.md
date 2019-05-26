@@ -1,5 +1,6 @@
 # TED_notes
 
+- [TED百度脑图](http://naotu.baidu.com/file/0172f17bb425000edf7adb026710c971?token=96507dcb6e458eeb)
 - [Week1_网络性与爱：诚邀辣妹 "搞搞"如何"高高"](Week1.md)
 - [Week2_数字屑：奴力或能力](Week2.md)
 - [Week3_人工智能与大数据：谁玩得起](Week3.md)
