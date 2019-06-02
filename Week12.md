@@ -18,7 +18,7 @@
 
 ### 收入如何影响人们的生活方式？
 
-&emsp;&emsp;
+&emsp;&emsp;我们常说我们共同生活在地球村中，潜意识认为每个人的生活环境大抵相同，而安娜·罗丝玲·洛恩仑收集地球上各个国家地区的生活状况照片，构建了[DOLLAR STREET](https://www.gapminder.org/dollar-street/matrix)，按收入水平逐渐递增排列，让人们可以通过筛选，直观看到街道最左端最贫穷的与最右端最富有的人们的生活水平差距。尽管我们已经知道存在贫富不均问题，但我们仍会认为自己处于中间阶层，而照片被作为视觉信息，使我们更加直面自己所处的阶层。
 
 ### 开放性数据如何改变国际援助？
 
@@ -37,7 +37,7 @@
 &emsp;&emsp;
 
 **相关链接：**
-- [汉斯 罗斯林：汉斯罗斯林用前所未有的好方法诠释数字统计](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen?&language=zh-cn)
-- [安娜 罗丝玲 洛恩仑：收入如何影响人们的生活方式](https://www.ted.com/talks/anna_rosling_ronnlund_see_how_the_rest_of_the_world_lives_organized_by_income?&language=zh-cn)
+- [汉斯·罗斯林：汉斯罗斯林用前所未有的好方法诠释数字统计](https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen?&language=zh-cn)
+- [安娜·罗丝玲·洛恩仑：收入如何影响人们的生活方式](https://www.ted.com/talks/anna_rosling_ronnlund_see_how_the_rest_of_the_world_lives_organized_by_income?&language=zh-cn)
     - [DOLLAR STREET](https://www.gapminder.org/dollar-street/matrix)
 - [Sanjay Pradhan：开放性数据在怎样改变国际援助？](https://www.ted.com/talks/sanjay_pradhan_how_open_data_is_changing_international_aid?language=zh-cn)
