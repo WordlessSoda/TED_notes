@@ -12,13 +12,24 @@
 
 ![垃圾分类](http://218.16.125.44/img/20180519/131711963478424405.png)
 
-### 遇到一个头疼的问题？先告诉我如何做烤面包吧！
+### 设计如何系统思维？
 
-### 资本主义不是意识形态，而是操作系统
+#### 遇到一个头疼的问题？先告诉我如何做烤面包吧！
 
+&emsp;&emsp;理解并解决复杂的问题往往让人头疼，化繁为简，将复杂问题结构化，拆分为多个小问题再逐一解决不失为一种方法。
+
+> 汤姆·赫克从收集到人们关于烤面包的步骤的画作中，发现其中的共同点是存在节点与链接，节点是可以触及的物品如烤面包机，链接是每个节点之间的联系，在此基础上构建了个人思考事物的模型。而当他组织小组共同画出烤面包步骤时，开始时很混乱，但随着每个人不同观点逐渐清晰，统一。
+
+&emsp;&emsp;通过设计让人的思维系统化，如此清晰可见，层次分明。**在探究人类思维过程中不妨融入设计出的系统思维，帮助我们从有趣且理性的角度了解人类的思考。**
+
+#### 资本主义不是意识形态，而是操作系统
+
+> Bhu Srinivasan主张将资本主义看作是操作系统，而不是意识形态。将资本主义看作意识形态会阻碍经济，文化和政治等等各方面的进步，因为在意识形态的禁锢下要求发展方向与之相符合的。而把资本主义看作是操作系统，它就是可扩展的，需要升级，安装补丁与时代发展同步。为了适应现代化经济、文化和政治发展，资本主义及需要我们不断去扩展，完善以满足我们的需要。
+
+&emsp;&emsp;这其中的思想对中国的社会主义也有所帮助，我们也可将社会主义看作是一个系统，需要人民共同的参与其改革和完善，而不应局限于意识形态的问题上。中国正处于社会主义的初级阶段，中国特色社会主义的改革开放，即是为了满足时代经济文化发展的需要而对社会主义这一“系统”升级完善。
 
 **相关链接：**
 - [蕾拉·阿卡罗格鲁：纸比塑料好？——如何审视环境民俗](https://www.ted.com/talks/leyla_acaroglu_paper_beats_plastic_how_to_rethink_environmental_folklore?&language=zh-cn)
-- [汤姆 赫克：遇到一个头疼的问题？先告诉我如何做烤面包吧！](https://www.ted.com/talks/tom_wujec_got_a_wicked_problem_first_tell_me_how_you_make_toast?&language=zh-cn)
+- [汤姆·赫克：遇到一个头疼的问题？先告诉我如何做烤面包吧！](https://www.ted.com/talks/tom_wujec_got_a_wicked_problem_first_tell_me_how_you_make_toast?&language=zh-cn)
 - [Bhu Srinivasan ：资本主义不是意识形态，而是操作系统](https://www.ted.com/talks/bhu_srinivasan_capitalism_isn_t_an_ideology_it_s_an_operating_system?&language=zh-cn)
 - [Eric Liu ：如何理解权力](https://www.ted.com/talks/eric_liu_how_to_understand_power?&langauge=zh-cn)
